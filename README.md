@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hey! How are you doing? 👋
 
+My name is Cauê, I'm a Full-Stack Developer and a Computer Technician living in São Paulo, Brazil.
+
+## About me
 <!--
 **cauefernandes0/cauefernandes0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
