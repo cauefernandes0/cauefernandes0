@@ -48,7 +48,7 @@ I have solid knowledge and hands-on experience with several technologies, such a
  <h3 align="center" >How to reach me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/caue-fernandes/">
-    <img alt="LinkedIn" width="22px" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/250px-LinkedIn_icon.svg.png)" />
+    <img alt="LinkedIn" width="22px" src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/linkedin.svg" />
   </a>&ensp;
   <a href="mailto:caue.fsantos@outlook.com">
     <img alt="Email" width="22px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/gmail.svg" />
