@@ -20,7 +20,7 @@ I have solid knowledge and hands-on experience with several technologies, such a
 * **Tools & Methodologies:** Git, Postman, Agile (Scrum/Kanban), Unit Testing
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,sql,react,html,css,python,cs,java,nodejs,.net" />
+  <img src="https://skillicons.dev/icons?i=js,ts,mysql,react,html,css,python,cs,java,nodejs,dotnet" />
 </div>
 
 ## 🚀 Featured Projects
