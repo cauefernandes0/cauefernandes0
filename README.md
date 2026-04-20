@@ -19,7 +19,9 @@ I have solid knowledge and hands-on experience with several technologies, such a
 * **Automation (RPA) & Web Scraping:** Power Automate, n8n, Pandas, Playwright
 * **Tools & Methodologies:** Git, Postman, Agile (Scrum/Kanban), Unit Testing
 
-<p align="center"><a href="#"><img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /></a> <a href="#"><img alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" /></a> <a href="#"><img alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /></a> <a href="#"><img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /></a> <a href="#"><img alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /></a> <a href="#"><img alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /></a> <a href="#"><img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></a> <a href="#"><img alt="C#" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /></a> <a href="#"><img alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /></a> <a href="#"><img alt="NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /></a></p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,mysql,react,html,css,python,cs,java,nodejs" />
+</div>
 
 ## 🚀 Featured Projects
 *   **[WHW - Women Helping Women]:** A mobile app developed with React Native, TypeScript, and Node.js, aimed at providing a safe environment for women to hire services from other women.
