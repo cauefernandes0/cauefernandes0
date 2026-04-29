@@ -1,10 +1,10 @@
-## Hey! How are you doing? 👋
+## Hey! How are you doing?
 
 My name is Cauê, I'm a Full-Stack Developer and a Computer Technician living in São Paulo, Brazil. 
 
 Currently, I am pursuing a Bachelor's degree in Information Systems at Faculdade Impacta and working as a Systems Analyst Intern at RTM (fintech corporation), where I focus on system maintenance, data analysis, and process automation.
 
-## 👨‍💻 About me
+## About me
 I've already worked with Web Development and Mobile Application Development, but recently I've also been diving deep into Data Analysis and RPA (Robotic Process Automation). 
 
 In my daily routine, I love transforming operational challenges into scalable solutions. For instance, I have built internal web portals using **React, C#, and SQL Server**, and developed **Python** scripts and **Power Automate** flows that successfully reduced manual work time by 70%. 
