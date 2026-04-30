@@ -11,7 +11,7 @@ In my daily routine, I love transforming operational challenges into scalable so
 
 I have solid knowledge and hands-on experience with several technologies, such as:
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 * **Front-end & Mobile:** React, React Native, JavaScript (ES6+), TypeScript, HTML5, CSS3, Figma
 * **Back-end:** Node.js, C#, Python, RESTful APIs, ADVPL
@@ -23,7 +23,7 @@ I have solid knowledge and hands-on experience with several technologies, such a
   <img src="https://skillicons.dev/icons?i=js,ts,mysql,react,html,css,python,cs,java,nodejs,dotnet" />
 </div>
 
-## 🚀 Featured Projects
+## Featured Projects
 *   **[WHW - Women Helping Women]:** A mobile app developed with React Native, TypeScript, and Node.js, aimed at providing a safe environment for women to hire services from other women.
 *   **[SLFood]:** A food delivery application prototype focusing on UX/UI design (Figma) and Low-code development (FlutterFlow, Xano) to help local restaurants avoid abusive delivery fees..
 
